@@ -1,0 +1,16 @@
+Employee Name,Department,Joining Date,Hire Date,Application Date,Status,Gender,Engagement Score,Training Effectiveness,Performance Rating,Hiring Cost,Internal Moves,Overtime Hours,Application Status
+Alice,Marketing,2024-01-30,2024-01-26,2024-01-14,Active,Male,83,88,75,6348,0,14,Offered
+Bob,Engineering,2024-01-16,2024-01-05,2023-12-24,Active,Male,78,75,81,3266,0,6,Offered
+Charlie,HR,2024-01-28,2024-01-15,2024-01-01,Resigned,Female,73,90,68,3293,0,15,Offered
+Diana,Sales,2023-07-06,2023-06-30,2023-06-13,Active,Female,89,78,70,6851,1,11,Rejected
+Ethan,Sales,2023-11-04,2023-10-29,2023-10-18,Active,Female,70,78,71,4518,1,4,Rejected
+Fiona,Sales,2023-10-11,2023-09-30,2023-09-25,Active,Male,89,87,65,6423,1,2,Rejected
+George,Sales,2023-06-23,2023-06-21,2023-06-07,Active,Female,74,91,69,5599,0,14,Rejected
+Hannah,Marketing,2023-02-08,2023-01-24,2023-01-10,Resigned,Female,86,71,70,3269,1,6,Accepted
+Ivan,Marketing,2023-02-26,2023-02-12,2023-02-07,Active,Male,77,85,80,4080,0,2,Offered
+Jasmine,HR,2023-02-19,2023-02-11,2023-01-24,Resigned,Male,73,92,95,5653,0,9,Rejected
+Kiran,Sales,2023-01-28,2023-01-22,2023-01-02,Active,Female,90,89,81,5382,1,13,Rejected
+Lina,Sales,2023-07-31,2023-07-27,2023-07-18,Active,Female,86,89,81,7285,0,3,Accepted
+Manav,HR,2023-10-20,2023-10-13,2023-10-05,On Leave,Female,88,77,93,6241,1,1,Accepted
+Nina,Engineering,2023-02-09,2023-02-02,2023-01-23,Active,Male,75,85,79,6448,1,7,Accepted
+Oscar,Marketing,2023-11-09,2023-11-06,2023-10-28,Active,Male,89,78,68,7892,0,2,Rejected
